@@ -1,9 +1,8 @@
-# Astro_RE_design
-README
+### Astro_RE_design
 
-- 아스트로 파일 리디자인입니다.
+##아스트로 파일 리디자인입니다.
 
-Git File Information
+#Git File Information
 
 - ai : 앱 디자인에 사용되는 백터 파일들이 포함되어 있습니다.
 - icons : 앱 아이콘이 있습니다.
@@ -12,7 +11,7 @@ Git File Information
 - Resource-xxxhdpi : 앱의 아이콘 리소스가 포함되어 있습니다.
   
 
-Resource Information
+#Resource Information
 
 - btn_back.png : 액션바의 뒤로 가기 버튼입니다.
 - btn_menu:액션바의 메뉴 버튼입니다.
@@ -29,7 +28,7 @@ Resource Information
 - ic_video.png : 비디오에 대한 아이콘입니다.
   
 
-Color Information
+#Color Information
 
 - #f9a825 : 앱 메인 컬러
 - #00695C : 앱 스테이터스 바 컬러
